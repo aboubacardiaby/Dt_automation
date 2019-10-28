@@ -1,0 +1,10 @@
+C:\Users\adiaby\Desktop\Database\DevOps\bin\Debug\DevOps.dacpac
+C:\Users\adiaby\Desktop\Database\DevOps\bin\Debug\DevOps.dll
+C:\Users\adiaby\Desktop\Database\DevOps\bin\Debug\DevOps.pdb
+C:\Users\adiaby\Desktop\Database\DevOps\obj\Debug\DevOps.sqlprojAssemblyReference.cache
+C:\Users\adiaby\Desktop\Database\DevOps\obj\Debug\Model.xml
+C:\Users\adiaby\Desktop\Database\DevOps\obj\Debug\refactor.xml
+C:\Users\adiaby\Desktop\Database\DevOps\obj\Debug\postdeploy.sql
+C:\Users\adiaby\Desktop\Database\DevOps\obj\Debug\predeploy.sql
+C:\Users\adiaby\Desktop\Database\DevOps\obj\Debug\DevOps.dll
+C:\Users\adiaby\Desktop\Database\DevOps\obj\Debug\DevOps.pdb
